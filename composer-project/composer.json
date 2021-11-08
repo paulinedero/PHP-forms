@@ -1,0 +1,16 @@
+{
+    "name": "wcs/quete_composer",
+    "description": "Projet quête composer",
+    "authors": [
+        {
+            "name": "Pauline De Ro",
+            "email": "pauline.dero@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {"Acme\\": "src/"}
+    }
+}
